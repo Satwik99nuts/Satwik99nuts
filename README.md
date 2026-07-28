@@ -62,21 +62,8 @@ Final-year CS student building **Generative AI systems, RAG pipelines, and compu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Satwik99nuts&show_icons=true&hide_border=true&theme=github_dark&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=F8FAFC&ring_color=10B981" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik99nuts&layout=compact&hide_border=true&theme=github_dark&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC" />
+<img src="assets/metrics.svg" width="100%" alt="GitHub metrics" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik99nuts&hide_border=true&theme=github-dark-blue&background=0F172A&stroke=1E293B&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" />
-
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Satwik99nuts&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 <br/>
