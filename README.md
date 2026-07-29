@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Satwik Shivam banner" width="100%"/>
+<img src="./assets/banner.svg" alt="Satwik Shivam banner" width="100%"/>
 
 <br/>
 
