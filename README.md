@@ -1,85 +1,56 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Satwik Sharma banner" src="assets/dark.svg" width="100%">
-</picture>
+<img src="./banner.svg" alt="Satwik Shivam banner" width="100%"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/satwik-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:satwikshivam94305@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://satwikportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/Satwik99nuts"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## About
-
-Final-year CS student building **Generative AI systems, RAG pipelines, and computer vision apps** — with production experience shipping via Docker, LangChain, FastAPI, and Next.js. Currently looking for AI/ML or full-stack SWE roles where I can build real, scalable systems, not just notebooks.
-
-- 🔭 Currently building **CereBRO** — an AI-native EdTech platform
-- 🌱 Deepening RAG / agentic pipeline design and eval-driven prompt engineering
-- 🎓 B.Tech CSE @ C.V. Raman Global University (2023 – 2027)
-- 📫 Reach me at **satwikshivam94305@gmail.com**
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css,react,nextjs,fastapi,tailwind,nodejs,postgres,docker,git,github,figma,vscode,linux&theme=dark" />
+<a href="https://github.com/Satwik99nuts">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E8B34A&center=true&vCenter=true&width=600&lines=Building+RAG+%2F+LLM+systems;Final-year+CSE+%40+CV+Raman+Global+University;Currently+deep+in+placement+prep+%F0%9F%93%9A" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C4443C?style=for-the-badge&logo=python&logoColor=E8B34A)
+![C++](https://img.shields.io/badge/C++-140C09?style=for-the-badge&logo=cplusplus&logoColor=E8B34A)
+![React](https://img.shields.io/badge/React-3A1712?style=for-the-badge&logo=react&logoColor=E8B34A)
+![FastAPI](https://img.shields.io/badge/FastAPI-C4443C?style=for-the-badge&logo=fastapi&logoColor=E8B34A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-140C09?style=for-the-badge&logo=postgresql&logoColor=E8B34A)
+![Docker](https://img.shields.io/badge/Docker-3A1712?style=for-the-badge&logo=docker&logoColor=E8B34A)
+![LangChain](https://img.shields.io/badge/LangChain-C4443C?style=for-the-badge&logo=langchain&logoColor=E8B34A)
 
 </div>
 
-<br/>
+---
 
-## Featured Projects
+### 🧠 About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
-  <img alt="Featured projects" src="assets/projects-dark.svg" width="100%">
-</picture>
+I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (grad. June 2027) and navigating campus placements. Flagship project: **CereBRO**, a full-stack RAG-based EdTech platform.
 
-<br/>
+- 🔭 Currently deep in DSA + system design placement prep (TCS, Infosys, Wipro, Cognizant, Accenture)
+- 🌱 Exploring cybersecurity fundamentals — PortSwigger Academy, OWASP Top 10
+- 🛠️ Stack: Python, C++, React/Next.js, FastAPI, PostgreSQL, LangChain, Docker, Jenkins CI/CD
+- 🎓 Google UX Design Professional Certificate · BSNL Telecom Intern
+- ✍️ Off the clock: Hindi/Hinglish/English poetry, guitar, Japanese, running
 
-## GitHub Stats
+---
 
 <div align="center">
 
-<img src="assets/metrics.svg" width="100%" alt="GitHub metrics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Satwik99nuts&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8B34A&icon_color=C4443C&text_color=C9A98C&bg_color=140C09" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik99nuts&theme=tokyonight&hide_border=true&ring=C4443C&fire=C4443C&currStreakLabel=E8B34A&background=140C09" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik99nuts&layout=compact&theme=tokyonight&hide_border=true&title_color=E8B34A&text_color=C9A98C&bg_color=140C09" width="49%" />
 
 </div>
 
-<br/>
+---
 
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/snake-light.svg">
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/snake-dark.svg" width="100%">
-</picture>
-
-<br/>
+### 📫 Reach me
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Satwik99nuts&color=7C3AED&style=flat-square&label=Profile+Views)
+<!-- swap these placeholders for your real links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A1712?style=for-the-badge&logo=linkedin&logoColor=E8B34A)](https://linkedin.com/in/YOUR-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-140C09?style=for-the-badge&logo=github&logoColor=E8B34A)](https://github.com/Satwik99nuts)
 
 </div>
