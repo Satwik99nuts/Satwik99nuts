@@ -8,9 +8,9 @@
     </linearGradient>
 
     <linearGradient id="accent_light" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2563EB"/>
-      <stop offset="50%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#10B981"/>
+      <stop offset="0%" stop-color="#E8B34A"/>
+      <stop offset="50%" stop-color="#C4443C"/>
+      <stop offset="100%" stop-color="#E8B34A"/>
       <animate attributeName="x1" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="100%;0%;100%" dur="9s" repeatCount="indefinite"/>
     </linearGradient>
@@ -26,125 +26,125 @@
     </radialGradient>
     </defs>
   <g clip-path="url(#rc_light)">
-    <rect x="0" y="0" width="1180" height="300" fill="#FFFFFF"/><rect x="0" y="0" width="1180" height="300" fill="url(#rglow_light)"/>
+    
         <g>
           <rect x="22" y="22" width="366" height="256" rx="18" ry="18"
-                fill="#F8FAFC" fill-opacity="0.72" stroke="#E2E8F0" stroke-width="1"/>
+                fill="#ffffff" fill-opacity="1" stroke="#C4443C" stroke-width="1"/>
           <rect x="22" y="22" width="366" height="256" rx="18" ry="18"
                 fill="none" stroke="url(#accent_light)" stroke-width="1.4" stroke-opacity="0.9">
             <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3.4s" begin="0.0s" repeatCount="indefinite"/>
           </rect>
           <rect x="23" y="23" width="364" height="46" rx="17" ry="17" fill="#FFFFFF" fill-opacity="0.5"/>
 
-          <text x="46" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#0F172A">CereBRO</text>
+          <text x="46" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#E8B34A">CereBRO</text>
           <circle cx="360" cy="56" r="4.5" fill="url(#accent_light)" filter="url(#glow_light)">
             <animate attributeName="r" values="3.5;5.5;3.5" dur="2.2s" begin="0.0s" repeatCount="indefinite"/>
           </circle>
-        <text x="46" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">Full-stack AI EdTech platform — chat</text><text x="46" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">with your docs, auto-flashcards,</text><text x="46" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">adaptive quizzes.</text>
+        <text x="46" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">Full-stack AI EdTech platform — chat</text><text x="46" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">with your docs, auto-flashcards,</text><text x="46" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">adaptive quizzes.</text>
             <g>
               <rect x="46" y="169" width="61.199999999999996" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="76.6" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">Next.js</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="76.6" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">Next.js</text>
             </g>
             
             <g>
               <rect x="115.19999999999999" y="169" width="61.199999999999996" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="145.79999999999998" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">FastAPI</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="145.79999999999998" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">FastAPI</text>
             </g>
             
             <g>
               <rect x="184.39999999999998" y="169" width="74.4" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="221.59999999999997" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">LangChain</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="221.59999999999997" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">LangChain</text>
             </g>
             
             <g>
               <rect x="266.79999999999995" y="169" width="81.0" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="307.29999999999995" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">PostgreSQL</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="307.29999999999995" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">PostgreSQL</text>
             </g>
             
-        <line x1="46" y1="238" x2="364" y2="238" stroke="#E2E8F0" stroke-width="1"/>
-        <text x="46" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#475569">&#8599; github.com/Satwik99nuts/CereBRO</text>
+        <line x1="46" y1="238" x2="364" y2="238" stroke="#C4443C" stroke-width="1"/>
+        <text x="46" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#504235">&#8599; github.com/Satwik99nuts/CereBRO</text>
         </g>
         
         <g>
           <rect x="428" y="22" width="366" height="256" rx="18" ry="18"
-                fill="#F8FAFC" fill-opacity="0.72" stroke="#E2E8F0" stroke-width="1"/>
+                fill="#ffffff" fill-opacity="1" stroke="#C4443C" stroke-width="1"/>
           <rect x="428" y="22" width="366" height="256" rx="18" ry="18"
                 fill="none" stroke="url(#accent_light)" stroke-width="1.4" stroke-opacity="0.9">
             <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3.4s" begin="0.6s" repeatCount="indefinite"/>
           </rect>
           <rect x="429" y="23" width="364" height="46" rx="17" ry="17" fill="#FFFFFF" fill-opacity="0.5"/>
 
-          <text x="452" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#0F172A">RAG-Based Chatbot</text>
+          <text x="452" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#E8B34A">RAG-Based Chatbot</text>
           <circle cx="766" cy="56" r="4.5" fill="url(#accent_light)" filter="url(#glow_light)">
             <animate attributeName="r" values="3.5;5.5;3.5" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
           </circle>
-        <text x="452" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">Document-aware Q&amp;A with sub-2s latency</text><text x="452" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">across 100+ page PDFs via FAISS +</text><text x="452" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">ChromaDB.</text>
+        <text x="452" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">Document-aware Q&amp;A with sub-2s latency</text><text x="452" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">across 100+ page PDFs via FAISS +</text><text x="452" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">ChromaDB.</text>
             <g>
               <rect x="452" y="169" width="54.599999999999994" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="479.3" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">Python</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="479.3" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">Python</text>
             </g>
             
             <g>
               <rect x="514.6" y="169" width="74.4" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="551.8000000000001" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">LangChain</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="551.8000000000001" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">LangChain</text>
             </g>
             
             <g>
               <rect x="597.0" y="169" width="48.0" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="621.0" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">FAISS</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="621.0" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">FAISS</text>
             </g>
             
             <g>
               <rect x="653.0" y="169" width="81.0" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="693.5" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">Gemini API</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="693.5" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">Gemini API</text>
             </g>
             
-        <line x1="452" y1="238" x2="770" y2="238" stroke="#E2E8F0" stroke-width="1"/>
-        <text x="452" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#475569">&#8599; github.com/Satwik99nuts/RAG-Chatbot</text>
+        <line x1="452" y1="238" x2="770" y2="238" stroke="#C4443C" stroke-width="1"/>
+        <text x="452" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#504235">&#8599; github.com/Satwik99nuts/RAG-Chatbot</text>
         </g>
         
         <g>
           <rect x="834" y="22" width="366" height="256" rx="18" ry="18"
-                fill="#F8FAFC" fill-opacity="0.72" stroke="#E2E8F0" stroke-width="1"/>
+                fill="#ffffff" fill-opacity="1" stroke="#C4443C" stroke-width="1"/>
           <rect x="834" y="22" width="366" height="256" rx="18" ry="18"
                 fill="none" stroke="url(#accent_light)" stroke-width="1.4" stroke-opacity="0.9">
             <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3.4s" begin="1.2s" repeatCount="indefinite"/>
           </rect>
           <rect x="835" y="23" width="364" height="46" rx="17" ry="17" fill="#FFFFFF" fill-opacity="0.5"/>
 
-          <text x="858" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#0F172A">Portfolio Website</text>
+          <text x="858" y="64" font-family="'JetBrains Mono','Fira Code',monospace" font-size="19" font-weight="700" fill="#E8B34A">Portfolio Website</text>
           <circle cx="1172" cy="56" r="4.5" fill="url(#accent_light)" filter="url(#glow_light)">
             <animate attributeName="r" values="3.5;5.5;3.5" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
           </circle>
-        <text x="858" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">Glassmorphic developer portfolio with</text><text x="858" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">fluid animations and live GitHub graph.</text><text x="858" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#475569">95+ Lighthouse.</text>
+        <text x="858" y="92" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">Glassmorphic developer portfolio with</text><text x="858" y="111" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">fluid animations and live GitHub graph.</text><text x="858" y="130" font-family="Inter,Segoe UI,sans-serif" font-size="12.5" fill="#504235">95+ Lighthouse.</text>
             <g>
               <rect x="858" y="169" width="61.199999999999996" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="888.6" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">Next.js</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="888.6" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">Next.js</text>
             </g>
             
             <g>
               <rect x="927.2" y="169" width="81.0" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="967.7" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">TypeScript</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="967.7" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">TypeScript</text>
             </g>
             
             <g>
               <rect x="1016.2" y="169" width="100.8" height="24" rx="12" ry="12"
-                    fill="rgba(37,99,235,0.08)" stroke="rgba(6,182,212,0.35)" stroke-width="0.8"/>
-              <text x="1066.6000000000001" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#0891B2">Framer Motion</text>
+                    fill="rgba(196,68,60,0.08)" stroke="rgba(232,179,74,0.35)" stroke-width="0.8"/>
+              <text x="1066.6000000000001" y="185" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#C4443C">Framer Motion</text>
             </g>
             
-        <line x1="858" y1="238" x2="1176" y2="238" stroke="#E2E8F0" stroke-width="1"/>
-        <text x="858" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#475569">&#8599; satwikportfolio.vercel.app</text>
+        <line x1="858" y1="238" x2="1176" y2="238" stroke="#C4443C" stroke-width="1"/>
+        <text x="858" y="260" font-family="'JetBrains Mono',monospace" font-size="11" fill="#504235">&#8599; satwikportfolio.vercel.app</text>
         </g>
         
   </g>
