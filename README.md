@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Satwik Shivam banner" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="Satwik Shivam banner" src="./assets/dark.svg" width="100%">
+</picture>
 
 <br/>
 
@@ -34,6 +38,18 @@ I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (gra
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg">
+    <img alt="Featured Projects" src="./assets/projects-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Satwik99nuts&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8B34A&icon_color=C4443C&text_color=C9A98C&bg_color=140C09" width="49%" />
@@ -41,6 +57,22 @@ I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (gra
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik99nuts&layout=compact&theme=tokyonight&hide_border=true&title_color=E8B34A&text_color=C9A98C&bg_color=140C09" width="49%" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/dist/snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Satwik99nuts/Satwik99nuts/output/dist/snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="100%"/>
 </div>
 
 ---
