@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 About
+### 👨‍💻 About Me
 
 I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (grad. June 2027) and navigating campus placements. Flagship project: **CereBRO**, a full-stack RAG-based EdTech platform.
 
@@ -46,13 +46,26 @@ I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (gra
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satwik99nuts&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8B34A&icon_color=C4443C&text_color=C9A98C&bg_color=140C09" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik99nuts&theme=tokyonight&hide_border=true&ring=C4443C&fire=C4443C&currStreakLabel=E8B34A&background=140C09" width="49%" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satwik99nuts&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8B34A&icon_color=C4443C&text_color=C9A98C&bg_color=140C09" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik99nuts&theme=tokyonight&hide_border=true&ring=C4443C&fire=C4443C&currStreakLabel=E8B34A&background=140C09" width="49%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik99nuts&layout=compact&theme=tokyonight&hide_border=true&title_color=E8B34A&text_color=C9A98C&bg_color=140C09" width="49%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik99nuts&layout=compact&theme=tokyonight&hide_border=true&title_color=E8B34A&text_color=C9A98C&bg_color=140C09" width="49%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satwik99nuts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="49%" /></a>
+</div>
 
+---
+
+### 📈 Contributions & Activity
+
+<div align="center">
+  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="100%"/>
 </div>
 
 <br/>
@@ -65,19 +78,13 @@ I build full-stack and RAG/LLM systems, currently finishing a B.Tech in CSE (gra
   </picture>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
-
 ---
 
-### 📫 Reach me
+### 📫 Connect with me
 
 <div align="center">
 
-<!-- swap these placeholders for your real links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-C4443C?style=for-the-badge&logo=vercel&logoColor=white)](https://satwikportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3A1712?style=for-the-badge&logo=linkedin&logoColor=E8B34A)](https://linkedin.com/in/YOUR-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-140C09?style=for-the-badge&logo=github&logoColor=E8B34A)](https://github.com/Satwik99nuts)
 
